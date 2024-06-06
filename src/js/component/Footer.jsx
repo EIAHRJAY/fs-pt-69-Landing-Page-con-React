@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Footer = ({icon}) => {
+const Footer = () => {
     return (
         <footer className="bg-dark text-white pt-4 mt-5">
             <div className="container">
