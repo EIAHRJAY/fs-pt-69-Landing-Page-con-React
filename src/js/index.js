@@ -4,6 +4,9 @@ import ReactDOM from "react-dom";
 
 // include your styles into the webpack bundle
 import "../styles/index.css";
+import "../js/component/narbar.jsx"
+import "../js/component/jumbotron.jsx"
+import "../js/component/card.jsx"
 
 //import your own components
 import Home from "./component/home.jsx";
