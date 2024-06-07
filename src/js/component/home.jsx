@@ -1,7 +1,7 @@
 import React from "react";
-import Navbar from "./narbar";
-import Jumbotron from "./jumbotron";
-import Card from "./card";
+import Navbar from "./Narbar";
+import Jumbotron from "./Jumbotron";
+import Card from "./Card";
 
 //include images into your bundle
 import Footer from "./Footer";
@@ -42,7 +42,7 @@ const Home = () => {
                 </div>
             </div>
         <Footer
-            icon=""
+            
         />
         </div>
     );
